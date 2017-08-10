@@ -14,7 +14,7 @@ Scenario Outline: Login functionality exists
 @First		
 Examples:
 |username|password|                        
-|mohdkamran|Farhan@1710|
+|user1|password1|
 
 
 
